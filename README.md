@@ -1,2 +1,3 @@
 # hello-world
-just  a  student
+只是一个学生
+想成为编程大佬
